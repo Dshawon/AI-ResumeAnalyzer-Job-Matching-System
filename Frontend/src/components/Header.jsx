@@ -1,5 +1,6 @@
 import React from "react";
 
+// my name is king khan
 export default function Header({ verified }) {
   return (
     <div className="w-full px-6 py-3 bg-white/5 border-b border-white/10 backdrop-blur-xl flex justify-between items-center">
