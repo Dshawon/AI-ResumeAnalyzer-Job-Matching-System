@@ -1,6 +1,7 @@
 import React, { useRef } from "react";
 import AxiosInstance from "../api/axiosInstance.jsx";
 
+//Shawon's Right panel
 export default function RightPanel({ user, totalReports, activeSessionsCount }) {
   const fileInputRef = useRef(null);
 
